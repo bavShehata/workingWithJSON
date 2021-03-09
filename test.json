@@ -1,14 +1,4 @@
-[
-    {
-        "name": "MySQL",
-        "type": "RDBMS"
-    },
-    {
-        "name": "MongoDB",
-        "type": "NoSQL"
-    },
-    {
-        "name": "Neo4j",
-        "type": "Graph DB"
-    }
-]
+{
+  "name": "mongo",
+  "type": "noSQL"
+}
