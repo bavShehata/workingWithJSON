@@ -1,4 +1,26 @@
-{
-  "name": "mongo",
-  "type": "noSQL"
-}
+[
+  {
+    "name": "mongo",
+    "type": "noSQL"
+  },
+  {
+    "name": "Postgres",
+    "type": "RDBMS"
+  },
+  {
+    "name": "mySQL",
+    "type": "SQL"
+  },
+  {
+    "name": "mySQL",
+    "type": "SQL"
+  },
+  {
+    "name": "mySQL",
+    "type": "SQL"
+  },
+  {
+    "name": "mySQL",
+    "type": "SQL"
+  }
+]

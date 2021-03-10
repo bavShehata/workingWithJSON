@@ -1,3 +1,11 @@
+# Ignore files with no extension
+# Ignore all 
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
@@ -22,9 +30,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-
-
 
 # Node
 
